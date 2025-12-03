@@ -1,0 +1,10 @@
+pypdf
+langchain
+langchain_community
+langchain_google_genai
+langchain-huggingface
+fastapi
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
